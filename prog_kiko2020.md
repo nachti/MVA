@@ -91,13 +91,3 @@ Arr. Alfred Bösendorfer, Dauer ~1:50, Grad 1
 https://de.musicainfo.net/detail.php?kat=2&artnr=4064663
 
 
-
-
-# Gesang (Pool)
-
-## Christina
-https://de.musicainfo.net/detail.php?kat=2&artnr=4023652
-
-## Boote in der Nacht (from 'Elisabeth')
-https://de.musicainfo.net/detail.php?kat=2&artnr=9098070
-
