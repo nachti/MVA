@@ -12,3 +12,14 @@ https://de.musicainfo.net/detail.php?kat=2&artnr=4023652
 ## Boote in der Nacht (from 'Elisabeth')
 https://de.musicainfo.net/detail.php?kat=2&artnr=9098070
 
+## Barcelona
+https://de.musicainfo.net/detail.php?kat=2&artnr=9084780
+Komp. Freddie Mercury, Arr. Frank Bernaerts, Dauer 4:47, Grad 3
+
+## Innuendo
+https://de.musicainfo.net/detail.php?kat=2&artnr=4094265
+Komp. Brina May et al., Arr. Lorenzo Bocci, Dauer 6:16, Grad 3
+
+## Don't Cry for Me Argentina
+https://de.musicainfo.net/detail.php?kat=2&artnr=9155220
+Komp. Andrew Lloyd Webber, Arr. Ron Sebregts, Dauer 4:46, Grad 3
