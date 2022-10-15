@@ -7,9 +7,9 @@ output:
 # Programm Herbstkonzert Aflenz 22.10.2022
 
 Änderungen vorbehalten!
-Reihenfolge ändert sich noch. Einige Stücke kommen noch dazu.
+Reihenfolge ändert sich noch.
 
-~ [TBD]' Nettospielzeit offizielles Programm
+~ [55]' Nettospielzeit offizielles Programm
 
 Jeweils aktuelle Version hier:
 https://github.com/nachti/MVA
@@ -19,19 +19,20 @@ https://github.com/nachti/MVA
 Komp. Georg Fürst, Dauer 3:35
 
 
-## Carrickfergus
-Irish Folksong, Arr. Andreas Fleißner, Dauer ca. 3:30
-https://www.youtube.com/watch?v=ON4vTGJgJmU (etwas anderes Arr.)
-
-
 ## Im weissen Rössl
 https://de.musicainfo.net/detail.php?kat=2&artnr=9355080
-Komp. Ralph Benatzky, Arr. Hermann Krome, Dauer: 10-15 min ?
+Komp. Ralph Benatzky, Arr. Hermann Krome, Dauer ~ 14'
 https://www.stretta-music.at/benatzky-im-weissen-roessl-nr-478567.html
 
 Orchesterversion: https://www.youtube.com/watch?v=YPzNsXKKXWg
 Ziffer 4: Im Salzkammergut (Ländler) deutlich zu schnell.
 Nach Ziffer 6 (Mein Liebeslied muss ein Walzer sein) -- dort fehlen die Verzögerungen -- geht es in diesem Arr. gleich zum Watsch'n Ländler Ziffer 12 (der auch zu schnell ist). Vor dem nächsten Moderato 4/4 spielen sie dann bei 14, dem Hauptthema weiter.
+
+
+## Carrickfergus
+Irish Folksong, Arr. Andreas Fleißner, Dauer ca. 3:30
+https://www.youtube.com/watch?v=ON4vTGJgJmU (etwas anderes Arr.)
+Solist: Thomas Rappold
 
 
 ## Titus Overtüre
@@ -44,15 +45,17 @@ https://de.musicainfo.net/detail.php?kat=2&artnr=4073813
 Komp. Mathias Rauch, Dauer 4:12, Grad 2+
 
 
-
-## Wiener Bürger
-https://de.musicainfo.net/detail.php?kat=2&artnr=4008193
-Komp. Carl Michael Ziehrer, Arr. Walter Tuschla, Dauer 7:00, Grad 3?
+## Pause
 
 
 ## Ars Vivendi
 https://de.musicainfo.net/detail.php?kat=2&artnr=4007670
 Komp. Florian Pranger, Dauer 7:10, Grad 3
+
+
+## Wiener Bürger
+https://de.musicainfo.net/detail.php?kat=2&artnr=4008193
+Komp. Carl Michael Ziehrer, Arr. Walter Tuschla, Dauer 5:40, Grad 3?
 
 
 ## Für unsere Kameraden
@@ -65,6 +68,8 @@ https://www.abel.at/pi/Blasmusik1/Konzertante-Musik/Konzertstuecke/Curak-Was-ein
 Komp. Josef Kotay, Dauer 8:30, Grad B
 
 
+# Zugaben
+
 ## Sperlpolka
 https://de.musicainfo.net/detail.php?kat=2&artnr=9620200
 Komp. Johann Strauss Vater, Arr. Anton O. Sollfelner, Dauer 2:40, Grad 2
@@ -73,17 +78,3 @@ Komp. Johann Strauss Vater, Arr. Anton O. Sollfelner, Dauer 2:40, Grad 2
 Dauer ca. 3 min
 
 
-
-# Reserve
-
-## Weinkeller Polka
-https://www.abel.at/pi/Blasmusik1/Polkas/Weinkeller-Polka.html
-Komp. Stefan Stranger, Arr. Michael Schumachers, Dauer 4:00, Grad B
-
-## Israel - Shalom
-https://de.musicainfo.net/detail.php?kat=2&artnr=9376001
-Komp. Kees Vlak, Dauer 7:30, Grad 3+
-
-## African Symphony
-https://de.musicainfo.net/detail.php?kat=2&artnr=4065210
-Komp. Van McCoy, Arr. Naohiro Iwai, Dauer 4:15, Grad 4
