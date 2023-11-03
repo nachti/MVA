@@ -17,7 +17,7 @@ https://github.com/nachti/MVA
 
 ## Textilaku / Trentschiner Musikanten / Pochod textilákov
 
-Komp. Karol	Padivy, Arr. Walter Tuschla, Dauer 3:50, Grad 2
+Komp. Karol Pádivý, Arr. Walter Tuschla, Dauer 3:50, Grad 2
 
 https://de.musicainfo.net/detail.php?kat=2&artnr=9691920
 
@@ -72,7 +72,7 @@ https://www.youtube.com/watch?v=VHP3-LqSiI0
 
 ## Auf einem persischen Markt
 
-Komp. Albert William Ketèlbey, Arr. E. Schmidt-Köthen, Dauer 7:30
+Komp. Albert William Ketèlbey, Arr. Ernst Schmidt-Köthen, Dauer 7:30
 
 https://www.youtube.com/watch?v=YuhcV43XKIA
 
@@ -85,7 +85,7 @@ https://www.youtube.com/watch?v=YVzLc7syPkA
 ## Pause
 
 
-## Egyptischer Marsch (Bläserquintett)
+## Egyptischer Marsch -- Erzherzog-Johann-Ensemble (Bläserquintett)
 
 Komp. Johann Strauss Sohn, Arr. Friedrich Gabler, Dauer 2:35
 
@@ -97,6 +97,7 @@ https://www.youtube.com/watch?v=qOzj_y5MZK8
 
 
 ## Born4Horn
+
 Komp. Fritz Neuböck jun., Dauer ca. 6:00, Grad 3
 
 https://de.musicainfo.net/detail.php?kat=2&artnr=4082006
