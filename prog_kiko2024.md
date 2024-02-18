@@ -7,7 +7,7 @@ output:
 
 Änderungen vorbehalten!
 
-~ xx' Nettospielzeit offizielles Programm
+~ xx' Nettospielzeit offizielles Programm (~50')
 
 Jeweils aktuelle Version hier:
 https://github.com/nachti/MVA
@@ -41,19 +41,21 @@ Trauermarsch
 Komp. NN, Dauer  ~3'
 
 
-## Peter Maffay (Gesang ad lib)
-Komp.: Peter Maffay, Arr.: Wolfgang Wössner, Dauer: ~8:55, Grad 3
+## Über sieben Brücken (Gesang ad lib)
+Komp.: Peter Maffay, Arr.: Kurt Gäble, Dauer: ~3:55, Grad 2
 
-https://de.musicainfo.net/detail.php?kat=2&artnr=4077911
+https://de.musicainfo.net/detail.php?kat=2&artnr=4017966
 
-https://www.youtube.com/watch?v=uI2bgqmlXPU
-
-## oder Über sieben Brücken (Gesang ad lib)
-Komp.: Peter Maffay, Arr.: Manfred Schneider, Dauer: ~3:55, Grad 2
-
-https://de.musicainfo.net/detail.php?kat=2&artnr=9391040
+Blasmusikversion: https://www.youtube.com/watch?v=MLVf9d8pEOk
 
 Originalversion: https://www.youtube.com/watch?v=GzCl8DIJCR0
+
+Orchesterversionen:
+
++ https://www.youtube.com/watch?v=lCxSeXPrtkA
++ https://www.youtube.com/watch?v=t6JX0Yi5eks
+
+Kleine Partie: https://www.youtube.com/watch?v=4-qhvQ5QV98
 
 
 ## Music (Gesang ad lib)
@@ -100,12 +102,13 @@ https://de.musicainfo.net/detail.php?kat=2&artnr=4010093
 
 
 # Peter Gunn
+~2:30 bis 2:50
 ## TODO
 
 # Zugaben
 
 ## I am from Austria (Gesang)
-Komp.: Reinhard Fendrich, Arr.: ?, Dauer: ~?, Grad ?
+Komp.: Reinhard Fendrich, Arr.: Bernaldo Ortsteen, Dauer: ~4:00 ?, Grad ?
 
 https://de.musicainfo.net/detail.php
 
@@ -113,3 +116,11 @@ Originalversion: https://www.youtube.com/watch
 
 Blasmusikversion: https://www.youtube.com/watch
 
+
+# Reserve
+## Peter Maffay (Gesang ad lib)
+Komp.: Peter Maffay, Arr.: Wolfgang Wössner, Dauer: ~8:55, Grad 3
+
+https://de.musicainfo.net/detail.php?kat=2&artnr=4077911
+
+https://www.youtube.com/watch?v=uI2bgqmlXPU
