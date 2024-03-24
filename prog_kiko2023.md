@@ -24,10 +24,11 @@ Originalversion: https://www.youtube.com/watch?v=KD_1Z8iUDho (sehr gute Aufnahme
 Blasmusikversion: https://www.youtube.com/watch?v=kNTT8SQGln0
 
 
-## Trauermarsch (TBD)
-
+## Requiescat in pace
 Trauermarsch
-Komp. NN, Dauer  ~3'
+Komp.: Emil Rameis, Dauer ~3:00, Grad 2
+
+https://de.musicainfo.net/detail.php?kat=2&artnr=9584440
 
 
 ## Elisabeth (Gesang ad lib)
