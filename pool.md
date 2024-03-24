@@ -35,3 +35,8 @@ Komp. Kees Vlak, Dauer 7:30, Grad 3+
 ## African Symphony
 https://de.musicainfo.net/detail.php?kat=2&artnr=4065210
 Komp. Van McCoy, Arr. Naohiro Iwai, Dauer 4:15, Grad 4
+
+## Peter Maffay (Gesang ad lib)
+Komp.: Peter Maffay, Arr.: Wolfgang Wössner, Dauer: ~8:55, Grad 3
+https://de.musicainfo.net/detail.php?kat=2&artnr=4077911
+https://www.youtube.com/watch?v=uI2bgqmlXPU
