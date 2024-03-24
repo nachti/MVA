@@ -32,7 +32,7 @@ Originalversionen (andere Tonart):
 + https://www.youtube.com/watch?v=7L9EMe-7Z4w
 + https://www.youtube.com/watch?v=oxE40zCGo6Q
 
-Blasmusikversion: https://www.youtube.com/watch?v=eiDi8lEJ338
+Blasmusikversion: https://www.youtube.com/watch?v=eiDi8lEJ338 (zu schnell)
 
 
 
@@ -46,8 +46,6 @@ Komp. NN, Dauer  ~3'
 Komp.: Peter Maffay, Arr.: Kurt Gäble, Dauer: ~3:55, Grad 2
 
 https://de.musicainfo.net/detail.php?kat=2&artnr=4017966
-
-Blasmusikversion: https://www.youtube.com/watch?v=MLVf9d8pEOk
 
 Originalversion: https://www.youtube.com/watch?v=GzCl8DIJCR0
 
@@ -70,13 +68,15 @@ Originalversionen:
 + https://www.youtube.com/watch?v=3Nz7gtCArOw
 + https://www.youtube.com/watch?v=GpvmX5xrFbQ
 
+Blasmusikversion: https://www.youtube.com/watch?v=4uJLRagMFF0 (zu langsam -- nur zwecks Tonart)
 
 ## Let me Entertain you (Gesang ad lib.)
 Komp.: Robbie Williams and Guy Chambers, Arr.: Don Campbell, Dauer: ~09:15, Grad 3
 
 https://de.musicainfo.net/detail.php?kat=2&artnr=4006017
 
-https://www.youtube.com/watch?v=rkMyDv_i6u4
++ https://www.youtube.com/watch?v=1mqXdUPOvoQ (mit Gesang)
++ https://www.youtube.com/watch?v=rkMyDv_i6u4
 
 
 ## Locus iste
