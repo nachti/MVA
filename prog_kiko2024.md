@@ -36,10 +36,10 @@ Blasmusikversion: https://www.youtube.com/watch?v=eiDi8lEJ338 (zu schnell)
 
 
 
-## Trauermarsch (TBD)
+## Trauermarsch (Funeral March)
+Komp.: Frederic Chopin, Arr.: Hans Kliment, Dauer 4:00, Grad 2
 
-Trauermarsch
-Komp. NN, Dauer  ~3'
+https://de.musicainfo.net/detail.php?kat=2&artnr=9700040
 
 
 ## Über sieben Brücken (Gesang Martin)
