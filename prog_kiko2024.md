@@ -17,29 +17,20 @@ Reihenfolge ändert sich noch.
 ## Intrada aus den Turmbläsereyen (Brassquintett)
 Komp. Franz Xaver Frenzel, Dauer ~1:10
 
+oder
+
 ## "Ohne Bezeichnung" aus den Turmbläsereyen (Brassquintett)
 Komp. Franz Xaver Frenzel, Dauer ~1:50
-
-
-## One Moment in Time (Gesang Verena)
-Komp.: Albert Hammond and John Bettis, Arr.: Frank Bernaerts, Dauer ~4:40, Grad 3
-
-https://de.musicainfo.net/detail.php?kat=2&artnr=9532280
-
-Originalversionen (andere Tonart):
-
-+ https://www.youtube.com/watch?v=96aAx0kxVSA
-+ https://www.youtube.com/watch?v=7L9EMe-7Z4w
-+ https://www.youtube.com/watch?v=oxE40zCGo6Q
-
-Blasmusikversion: https://www.youtube.com/watch?v=eiDi8lEJ338 (zu schnell)
-
 
 
 ## Trauermarsch (Funeral March)
 Komp.: Frederic Chopin, Arr.: Hans Kliment, Dauer 4:00, Grad 2
 
 https://de.musicainfo.net/detail.php?kat=2&artnr=9700040
+
+
+## Locus iste
+Komp.: Anton Bruckner, Arr. Gerhard Nachtmann, Dauer: ~2:30
 
 
 ## Über sieben Brücken (Gesang Martin)
@@ -70,18 +61,6 @@ Originalversionen:
 
 Blasmusikversion: https://www.youtube.com/watch?v=4uJLRagMFF0 (zu langsam -- nur zwecks Tonart)
 
-## Let me Entertain you (Gesang ad lib.)
-Komp.: Robbie Williams and Guy Chambers, Arr.: Don Campbell, Dauer: ~09:15, Grad 3
-
-https://de.musicainfo.net/detail.php?kat=2&artnr=4006017
-
-+ https://www.youtube.com/watch?v=1mqXdUPOvoQ (mit Gesang)
-+ https://www.youtube.com/watch?v=rkMyDv_i6u4
-
-
-## Locus iste
-Komp.: Anton Bruckner, Arr. Gerhard Nachtmann, Dauer: ~2:30
-
 
 ## Barcelona (Gesang Verena und Martin)
 Komp.: Freddie Mercury / Queen, Arr. Siegmund Andraschek, Dauer: 6:00
@@ -98,16 +77,30 @@ Etwas andere Version mit sehr guter Sängerin (Louise Fribo):
 https://www.youtube.com/watch?v=7crV4k_iCgE
 
 
-# Joe Cocker! (Gesang ad lib.)
-Komp.: Joe Cocker,  Arr.: Wolfgang Wössner, Dauer: ~9:00, Grad 3
+## Let me Entertain you (Gesang ad lib.)
+Komp.: Robbie Williams and Guy Chambers, Arr.: Don Campbell, Dauer: ~09:15, Grad 3
 
-https://de.musicainfo.net/detail.php?kat=2&artnr=4010093
+https://de.musicainfo.net/detail.php?kat=2&artnr=4006017
 
-+ https://www.youtube.com/watch?v=soqSCPyHznY
-+ https://www.youtube.com/watch?v=otKtKxwbRTI
++ https://www.youtube.com/watch?v=1mqXdUPOvoQ (mit Gesang)
++ https://www.youtube.com/watch?v=rkMyDv_i6u4
 
 
-# Peter Gunn
+## One Moment in Time (Gesang Verena)
+Komp.: Albert Hammond and John Bettis, Arr.: Frank Bernaerts, Dauer ~4:40, Grad 3
+
+https://de.musicainfo.net/detail.php?kat=2&artnr=9532280
+
+Originalversionen (andere Tonart):
+
++ https://www.youtube.com/watch?v=96aAx0kxVSA
++ https://www.youtube.com/watch?v=7L9EMe-7Z4w
++ https://www.youtube.com/watch?v=oxE40zCGo6Q
+
+Blasmusikversion: https://www.youtube.com/watch?v=eiDi8lEJ338 (zu schnell)
+
+
+## Peter Gunn (Soli: Lisi, Johann, Rudi)
 Komp.: Henry Mancini, Arr. Thijs Oud, Dauer: ~4:40, Grad 3
 
 https://de.musicainfo.net/detail.php?kat=2&artnr=9553006
@@ -119,9 +112,19 @@ Bandversionen:
 
 Blasmusikversion: https://www.youtube.com/watch?v=RAm3XW_I-94 (zu schnell)
 
+
+## Joe Cocker! (Gesang Martin und Verena)
+Komp.: Joe Cocker,  Arr.: Wolfgang Wössner, Dauer: ~9:00, Grad 3
+
+https://de.musicainfo.net/detail.php?kat=2&artnr=4010093
+
++ https://www.youtube.com/watch?v=soqSCPyHznY
++ https://www.youtube.com/watch?v=otKtKxwbRTI
+
+
 # Zugaben
 
-## I am from Austria (Gesang)
+## I am from Austria (Gesang Verena und Martin)
 Komp.: Reinhard Fendrich, Arr.: Bernaldo Ortsteen, Dauer: ~4:00?, Grad C?
 
 Originalversionen:
